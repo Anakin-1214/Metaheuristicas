@@ -1,7 +1,7 @@
 # Metaheurísticas — Notebooks de Estudio
 
 Cinco notebooks de Jupyter autocontenidos que explican las metaheurísticas más
-importantes para optimización combinatoria y continua, **todos en español**,
+importantes para optimización combinatoria y continua,
 con implementaciones desde cero (solo NumPy + NetworkX + Matplotlib).
 
 ## Problema compartido
@@ -28,7 +28,7 @@ generalidad del método.
 
 ## Contenido de cada notebook
 
-Cada notebook cubre los siguientes puntos (todo en español):
+Cada notebook cubre los siguientes puntos:
 
 1. **Intuición y analogía** — explicación sin jerga técnica.
 2. **Formulación matemática** — modelo formal del problema y del algoritmo.
